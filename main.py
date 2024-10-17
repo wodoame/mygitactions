@@ -1,6 +1,6 @@
 def hello():
-  print('Hello, World')
+    print('Hello, World')
 
 def printOneToTen():
- for i in range(1, 11): 
-  print(i)
+    for i in range(1, 11): 
+        print(i)
